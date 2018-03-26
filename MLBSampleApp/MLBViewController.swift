@@ -7,14 +7,14 @@
 //
 
 import UIKit
+import MLBBaseballPod
 
 class MLBViewController: UIViewController {
 
   override func viewDidLoad() {
     super.viewDidLoad()
     self.title = "Today's Games"
-    // Do any additional setup after loading the view, typically from a nib.
-  }
+
 
   override func didReceiveMemoryWarning() {
     super.didReceiveMemoryWarning()

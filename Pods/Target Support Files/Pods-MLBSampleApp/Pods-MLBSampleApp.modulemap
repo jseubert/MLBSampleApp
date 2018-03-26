@@ -1,0 +1,6 @@
+framework module Pods_MLBSampleApp {
+  umbrella header "Pods-MLBSampleApp-umbrella.h"
+
+  export *
+  module * { export * }
+}

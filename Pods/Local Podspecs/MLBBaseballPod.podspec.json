@@ -1,0 +1,28 @@
+{
+  "name": "MLBBaseballPod",
+  "version": "0.1.1",
+  "summary": "A pod wrapper for interfacing with the MLB Advanced Media APIs.",
+  "description": "A wrapper around the MLB Advanced Media APIs. Simplifies how to get data for baseball games given a date. Includes all the models for quick integration into a project. Also has some simple UI elements.",
+  "homepage": "https://github.com/jseubert/MLBBaseballPod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "John Seubert": "jaseubert@gmail.com"
+  },
+  "social_media_url": "http://twitter.com/seubjoh",
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/jseubert/MLBBaseballPod.git",
+    "tag": "0.1.1"
+  },
+  "source_files": [
+    "MLBBaseballPod",
+    "MLBBaseballPod/**/*.{swift}"
+  ],
+  "frameworks": "UIKit",
+  "requires_arc": true
+}

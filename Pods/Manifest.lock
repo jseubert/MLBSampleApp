@@ -1,0 +1,16 @@
+PODS:
+  - MLBBaseballPod (0.1.1)
+
+DEPENDENCIES:
+  - MLBBaseballPod (from `~/projects/MLBBaseballPod`)
+
+EXTERNAL SOURCES:
+  MLBBaseballPod:
+    :path: ~/projects/MLBBaseballPod
+
+SPEC CHECKSUMS:
+  MLBBaseballPod: a3540db4d3838bae50a9fa4b9c7effcf06c30f88
+
+PODFILE CHECKSUM: 3e30996a6657d42ad6b911cee324392bfd2f37af
+
+COCOAPODS: 1.4.0
